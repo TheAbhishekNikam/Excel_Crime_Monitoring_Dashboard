@@ -10,7 +10,7 @@ The **Crime Monitoring Dashboard** is an interactive Excel-based data visualizat
 -  **Victim Demographics**: Gender distribution of victims (Male, Female, and Unknown).
 -  **Weapons in Crimes**: Insights into weapons used in crimes (firearms, knives, explosives, etc.).
 -  **State-Wise Crime Distribution**: A treemap visualization for crime reports per state.
--  **Interactive Slicers**: Filter data dynamically based on state, gender, and crime categories.
+-  **Interactive Slicers**: Filter data dynamically based on state, gender.
 
 ## Technologies Used
 - **Microsoft Excel** (Pivot Tables, Charts, Conditional Formatting, Slicers, Data Analysis)
