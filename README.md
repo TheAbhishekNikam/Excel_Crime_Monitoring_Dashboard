@@ -8,6 +8,7 @@ The Crime Monitoring Dashboard is an interactive and analytical dashboard built 
 
 
 
+
 🎯 Features
 
 Crime Trends Over Time: Visualizes crime occurrences from 2020 to 2024.
@@ -22,6 +23,7 @@ Weapons Used in Crimes: Analyzes the most commonly used weapons in criminal acti
 
 State-Wise Crime Reports: Compares crime rates across different states.
 
+
 📝 Data Insights
 
 The overall crime cases recorded are 40,160.
@@ -33,6 +35,7 @@ The average victim age is 45 years.
 The highest crime category is Burglary (1980 cases).
 
 Weapons analysis shows that knives and explosives are the most frequently used weapons in crimes.
+
 
 🔨 Tools Used
 
@@ -50,6 +53,7 @@ Time Period: 2020 - 2024.
 
 Regions Covered: Multiple states across India.
 
+
 🎨 Dashboard Preview
 
 
@@ -62,6 +66,7 @@ Open in Microsoft Excel (Recommended: Excel 2016 or later).
 
 Interact with Filters & Charts to analyze different crime trends.
 
+
 👥 Target Audience
 
 Law Enforcement Agencies 🚓
@@ -72,6 +77,7 @@ Policy Makers & Government Officials 🏛️
 
 Students & Enthusiasts 🎓
 
+
 📚 Future Enhancements
 
 Automated Data Updates (Using Power Query & Macros).
@@ -79,6 +85,8 @@ Automated Data Updates (Using Power Query & Macros).
 Integration with Power BI for enhanced visualizations.
 
 Crime Prediction Model (Using Machine Learning in Python).
+
+
 
 ✨ Created by ABHISHEK V NIKAM
 
